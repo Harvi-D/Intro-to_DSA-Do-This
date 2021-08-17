@@ -1,0 +1,11 @@
+{
+  "name": "efficiency-example",
+  "version": "1.0.0",
+  "description": "intro to algo run-time",
+  "main": "efficiency-example/sumIntegers.js",
+  "scripts": {
+    "start": "node efficiency-example/sumIntegers.js"
+  },
+  "author": "dylan harville",
+  "license": "ISC"
+}
